@@ -1,7 +1,7 @@
 <!--
 version:  2024.12.12.01
 
-author:   Dr. Manuela Ulrich, Dr. Sebastian Tillmann, Sarah Roos, Michael Kowalczyk
+author:   Dr. Manuela Ulrich; Dr. Sebastian Tillmann; Sarah Roos; Michael Kowalczyk
 
 email:    teacheredu.euniwell@uni-konstanz.de
 
